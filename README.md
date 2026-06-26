@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2800&pause=1200&color=00E5FF&center=true&vCenter=true&width=1200&lines=⚡+Network+Optimization+Algorithms+⚡;🔌+Made+by+Hiba+Rajeb;⚙️+Electrical+Engineering+Student+at+EMI+⚡" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  ⚡ ⚙️ 🔋 💡 ⚡ 🔌 ⚡ ⚙️ 🔋 💡 ⚡
-</p>
 
 
 
