@@ -31,7 +31,7 @@ A comprehensive desktop application for learning and visualizing **graph theory*
 ### Ford-Fulkerson - Maximum Flow (Directed Graph)
 *Maximum flow calculation with oriented graphs and capacity visualization*
 
-![Ford-Fulkerson Flow](screenshots/ford_fulkerson_flow.png)
+![Ford-Fulkerson Flow](https://imgur.com/m4V8fdK.png)
 > **Note:** Screenshot showing directed graph with arrows and flow values
 
 ### Bellman-Ford - Negative Weights Support
