@@ -43,13 +43,13 @@ A comprehensive desktop application for learning and visualizing **graph theory*
 ### Welsh-Powell Graph Coloring
 *Graph coloring algorithm with color-coded node visualization*
 
-![Welsh-Powell Coloring](screenshots/welsh_powell_coloring.png)
+![Welsh-Powell Coloring](https://imgur.com/jsFjuaD.png)
 > **Note:** Screenshot showing colored graph with different node colors
 
 ### Prim/Kruskal - Minimum Spanning Tree
 *MST algorithms with highlighted spanning tree edges*
 
-![MST Algorithms](screenshots/mst_algorithms.png)
+![MST Algorithms](https://imgur.com/amHKia3.png)
 > **Note:** Screenshot of MST with highlighted green edges
 
 ## ✨ Features
