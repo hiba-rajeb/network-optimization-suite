@@ -19,7 +19,7 @@ A comprehensive desktop application for learning and visualizing **graph theory*
 ### Main Dashboard
 *The central hub for accessing all algorithms with network configuration options*
 
-![Main Dashboard](screenshots/main_dashboard.png)
+![Main Dashboard](https://imgur.com/36r6Tbj.png)
 > **Note:** Take screenshot showing the main window with algorithm buttons
 
 ### Dijkstra Algorithm - Shortest Path
