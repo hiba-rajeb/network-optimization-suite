@@ -25,7 +25,7 @@ A comprehensive desktop application for learning and visualizing **graph theory*
 ### Dijkstra Algorithm - Shortest Path
 *Interactive shortest path calculation with real-time visualization*
 
-![Dijkstra Algorithm](screenshots/dijkstra_algorithm.png)
+![Dijkstra Algorithm](https://imgur.com/7UDBtP4.png)
 > **Note:** Screenshot of Dijkstra interface with calculated path and graph
 
 ### Ford-Fulkerson - Maximum Flow (Directed Graph)
