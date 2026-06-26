@@ -37,7 +37,7 @@ A comprehensive desktop application for learning and visualizing **graph theory*
 ### Bellman-Ford - Negative Weights Support
 *Shortest path algorithm supporting negative weights with cycle detection*
 
-![Bellman-Ford Algorithm](screenshots/bellman_ford_algorithm.png)
+![Bellman-Ford Algorithm](https://imgur.com/V8rQP4O.png)
 > **Note:** Screenshot of Bellman-Ford with directed graph visualization
 
 ### Welsh-Powell Graph Coloring
