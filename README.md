@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Network+Optimization+Algorithms;Made+by+Hiba+Rajeb;Electrical+Engineering+Student+at+EMI;Power+Systems+Optimization" alt="Typing SVG" />
+</div>
 
 
 
